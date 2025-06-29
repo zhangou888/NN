@@ -1,2 +1,4 @@
 # NN
-Neural Network Model Practice
+Neural Network Model Examples. 
+Step-by-Step explanation. 
+Run through codes in colab.
